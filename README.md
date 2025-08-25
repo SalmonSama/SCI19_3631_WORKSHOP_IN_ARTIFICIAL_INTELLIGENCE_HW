@@ -6,6 +6,12 @@ The work within this collection focuses on practical applications and problem-so
 
 ---
 
+## Homework Submission
+
+* [Click here to submit your assignment](https://docs.google.com/forms/d/e/1FAIpQLSfWL0_B_Lqz3Guiqb6tVKl6qSHKkM0tAXpB_wLpaLzDSq413w/viewform?usp=header)
+
+---
+
 ## Instructor
 
 * Asst. Prof. Dr. Ittipon Fongkaew
